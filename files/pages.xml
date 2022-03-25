@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <page>
+        <title>Home</title>
+        <content><![CDATA[<p>This is a test project. The following are some paragraphs with pseudo content.</p>
+<p>Here you can download the task as PDF in <a href="/task-en.pdf">english</a> and <a href="/task-de.pdf">german</a>.</p>
+<p>You can find the xml file here (<a href="/pages.xml">download</a>)</p>
+<p>Good luck with the task.</p>
+<p>Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem <strong>ipsum dolor sit amet, consetetur sadipscing</strong> elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p>Lorem ipsum dolor sit amet, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem <strong>ipsum dolor sit amet, consetetur sadipscing</strong> elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>]]></content>
+        <slug>home</slug>
+        <subpages>
+            <page>
+                <title>About us</title>
+                <content><![CDATA[<h2>Continuity made in D&uuml;sseldorf</h2>
+<p>One of our greatest strengths is our continuity. We have already been on the market for over 20 years and can boast an extremely low staff turnover. Some of our employees have been with our Internet agency in D&uuml;sseldorf for over 10 years. The management has also always worked together in an unchanged constellation in a spirit of trust. Therefore we can offer our customers a concentrated treasure of experience, which has matured since the existence of our internet agency. In addition, our experienced contact persons are continuously at your side from the beginning of the project to its successful completion. We attach great importance to providing almost all services in-house. Even our network of freelancers consists exclusively of former employees who have chosen a different work model and are based in D&uuml;sseldorf. So we can proudly claim that our services are 100% made in D&uuml;sseldorf.</p>]]></content>
+                <slug>about-us</slug>
+            </page>
+            <page>
+                <title>The company</title>
+                <content><![CDATA[<h2>Full-Service Internet Agency - what does that mean?</h2>
+<p>As a full-service internet agency in D&uuml;sseldorf, we accompany you through the complete "digital" process from analysis, conception, UI/UX design, programming, SEO, quality management, training to online marketing and sustainable update service.</p>
+<p>In addition, we have a very broad package of digital services and systems that we can offer our customers. As a full-service internet agency in D&uuml;sseldorf, we have the following services in our portfolio, among others:</p>]]></content>
+                <slug>the-company</slug>
+            </page>
+        </subpages>
+    </page>
+    <page>
+        <title>Our services</title>
+        <content><![CDATA[<p>Consulting, conception, planning<br />As an owner-managed Internet agency with the experience of more than 20 agency years and hundreds of realized online projects, we know that a successful project requires good planning. We rely not only on our proven procedures, but also on appropriate analysis and planning software to make your digital projects successful.</p>]]></content>
+        <slug>our-services</slug>
+        <subpages>
+            <page>
+                <title>Webdesign</title>
+                <content><![CDATA[<h2>What is actually good web design?</h2>
+<h3>Aesthetics alone are not decisive.</h3>
+<p>Web design is first associated with beautiful images and appealing aesthetics. The graphic design of websites is only one part of web design. Through the visual aspects of a website, the "visual language", users can be addressed on an emotional level. Depending on the target group, it is difficult to reach all visitors with the appearance of the page. In most cases, aesthetics alone are not enough to permanently bind the user and completely pick him up.</p>
+<h3>Provide user-centric solutions.</h3>
+<p>A design is good when it understands the user and provides a solution to their problems or goals. It must deliver value, both to the user and to their environment. For this, functional and structural design (usability) is also an essential part of the presentation. This can also improve the ranking of search results. If you offer the user an appropriate added value, they will be happy to stay on your website for a long time, which is evaluated positively by search engines.</p>]]></content>
+                <slug>webdesign</slug>
+            </page>
+            <page>
+                <title>Online games</title>
+                <content><![CDATA[<h2>What is the benefit of an online game?</h2>
+<p>In addition to lead generation, i.e., the collection of relevant data for subsequent contact, gamification is an important factor for the use of an online game. Our applications succeed in communicating content in a playful way so that players internalize it subconsciously. Through gamification, we motivate users to engage intensively with your brand and products without getting bored. It is much easier and more pleasant for users to internalize topics through play than through classic communication with images and text. For us, gamification is e-learning in a special way!</p>]]></content>
+                <slug>online-games</slug>
+                <subpages>
+                    <page>
+                        <title>HTML 5</title>
+                        <content><![CDATA[<p>HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final[3] major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard. It is maintained by the Web Hypertext Application Technology Working Group (WHATWG), a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft).</p>
+<p>HTML5 was first released in a public-facing form on 22 January 2008,[2] with a major update and "W3C Recommendation" status in October 2014.[4][5] Its goals were to improve the language with support for the latest multimedia and other new features; to keep the language both easily readable by humans and consistently understood by computers and devices such as web browsers, parsers, etc., without XHTML's rigidity; and to remain backward-compatible with older software. HTML5 is intended to subsume not only HTML 4 but also XHTML 1 and DOM Level 2 HTML.[6]</p>]]></content>
+                        <slug>html5</slug>
+                    </page>
+                    <page>
+                        <title>Android Apps</title>
+                        <content><![CDATA[<p>As of 2017, 75% of all Internet access takes place via mobile devices. This is why mobile apps are enormously important for the sale of products and services in addition to a responsive website or a responsive online store. In a mobile app, UI/UX design can be mapped much better than with a responsive web app. This usually leads to higher conversions. Thus, the sales of online stores can be significantly increased by a mobile app and the user-friendliness of online services can be improved enormously.</p>
+<p>In order to optimally reach all target groups via mobile apps, the app must be made available for several operating systems (iOS, Android, Windows). Since this can be very time-consuming and cost-intensive, our app developers usually develop hybrid mobile apps. These are based on a uniform source code and can be made available for all platforms (iOS and Android) using different technologies.</p>
+<p>Our app developers use established frameworks such as Phonegap or Cocoon, so our cross-platform mobile apps are not overshadowed by native apps and of course work on all types of devices, such as smartphones and tablets.</p>]]></content>
+                        <slug>android-apps</slug>
+                    </page>
+                    <page>
+                        <title>IOS Apps</title>
+                        <content><![CDATA[<p>The App Store is an app store platform, developed and maintained by Apple Inc., for mobile apps on its iOS and iPadOS operating systems. The store allows users to browse and download approved apps developed within Apple's iOS Software Development Kit. Apps can be downloaded on the iPhone, iPod Touch, or the iPad, and some can be transferred to the Apple Watch smartwatch or 4th-generation or newer Apple TVs as extensions of iPhone apps.</p>
+<p>The App Store was opened on July 10, 2008, with an initial 500 applications available. The number of apps peaked at around 2.2 million in 2017, but declined slightly over the next few years as Apple began a process to remove old or 32-bit apps that do not function as intended or that do not follow current app guidelines. As of 2021, the store features more than 1.8 million apps.</p>
+<p>While Apple touts the role of the App Store in creating new jobs in the "app economy"[1] and claims to have paid over $155 billion to developers,[2] the App Store has also attracted criticism from developers and government regulators that it operates a monopoly and that Apple's 30% cut of revenues from the store is excessive.[3] In October of 2021, the Netherlands Authority for Consumers and Markets (ACM) concluded that in-app commissions from Apple&rsquo;s App Store are anti-competitive and would demand that Apple change its in-app payment system policies.[4]</p>]]></content>
+                        <slug>ios-apps</slug>
+                        <subpages>
+                            <page>
+                                <title>Doodle Jump</title>
+                                <content><![CDATA[<p>Doodle Jump is a platforming video game developed and published by Croatian studio Lima Sky, for Windows Phone, iPhone OS, BlackBerry, Android, Java Mobile (J2ME), Nokia Symbian, and Xbox 360 for the Kinect platform.[1] It was released worldwide for iPhone OS on March 15, 2009, and was later released for Android and Blackberry on March 2, 2010, Symbian on May 1, 2010, Windows Phone 7 on June 1, 2011,[2] and August 21, 2013, on Windows Phone 8.[3][4] It was released for the iPad on September 1, 2011. Since its release, the game has been generally well received. The game is currently available on nine platforms.</p>
+<p>Doodle Jump was renowned for its selling rate by App Store standards, which counted 25,000 copies sold daily for 4 consecutive months (later overtaken by Angry Birds). As of December, 2011, the game sold 10 million copies over iTunes and Google Play and reached 15 million downloads across all platforms.[5][6] The game has been developed into a video redemption game for play at video arcades.[7] Croatians Igor and Marko Pu&scaron;enjak are authors of Doodle Jump,[8] where Igor works from a New York-based address and Marko resides in Croatia.[9] In July 2016, Lima Sky announced partnership with Skillz to develop a tournament-playable version of the game.[10]</p>
+<p>On December 20, 2020, Doodle Jump 2 was released on the App Store.[11]</p>]]></content>
+                                <slug>doodle-jump</slug>
+                            </page>
+                        </subpages>
+                    </page>
+                </subpages>
+            </page>
+            <page>
+                <title>Server hosting</title>
+                <content><![CDATA[<p>Regardless of whether you want to run a content management system (e.g. TYPO3 or WordPress), an e-commerce solution (e.g. Magento or Shopware) or an individually programmed software solution, suitable professional web hosting is indispensable for the sustainable success of your online project!</p>
+<p>Our hosting experts analyze your web projects and provide you with customized hosting packages and web servers based on Amazon AWS Cloud servers. Thus, we achieve best performance and optimal data security for your online project. Amazon AWS (Amazon Web Services) provides almost unlimited resources, is easy to scale, and offers you high reliability.</p>
+<p>During operation, we constantly ensure that the software used is updated and always keep an eye on the utilization, performance and security of your hosting solution through detailed monitoring. Our hosting experts thus ensure that problems are eliminated before they arise. In case of questions or problems, you have a fixed contact person in our company, who not only has relevant experience in the support of sophisticated hosting solutions, but is also familiar with your projects. This means that you will receive only the best and personal service from us.</p>]]></content>
+                <slug>server-hosting</slug>
+            </page>
+        </subpages>
+    </page>
+</root>

@@ -1,0 +1,8 @@
+version: '3'
+services:
+  netigo-php-app:
+    build: .
+    volumes:
+      - ./:/var/www/html/
+    ports:
+      - "8888:80"
